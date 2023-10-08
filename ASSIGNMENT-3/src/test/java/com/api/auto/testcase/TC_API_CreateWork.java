@@ -4,15 +4,11 @@ import static org.testng.Assert.assertEquals;
 import static org.testng.Assert.assertTrue;
 
 import java.io.File;
-import java.util.HashMap;
-import java.util.Map;
 
 import org.testng.annotations.BeforeClass;
-import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 import com.api.auto.utils.Initiator;
-import com.api.auto.utils.PropertiesFileUtils;
 
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;

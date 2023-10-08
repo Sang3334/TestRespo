@@ -1,10 +1,6 @@
 package com.api.auto.utils;
 
-import java.io.IOException;
-
 import org.testng.annotations.BeforeTest;
-
-import com.fasterxml.jackson.databind.JsonMappingException;
 
 public class Initiator {
 
